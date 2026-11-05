@@ -1,4 +1,9 @@
-div {
-  color:grey;
-  display:flex; 
+body{
+  font-family: sans-serif;
+  font-size: 1.2rem;
+}
+
+.container{
+  max-width: 52rem;
+  margin-inline: auto;
 }
